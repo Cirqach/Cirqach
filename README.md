@@ -1,12 +1,14 @@
 <div align="center">
-<h4 align="center">HI :trollface:</h4>
+<h2 align="center">Wassup :trollface: </h2>
 
 <img align="center"  src="https://badges.pufler.dev/repos/Cirqach"/>
  <img align="center" src="https://badges.pufler.dev/commits/monthly/Cirqach" />
 
-<h4>
-My Github Stats :trollface:
-</h4>
+<h2>My BIO</h2>
+
+<h2>
+My Github Stats
+</h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cirqach&theme=catppuccin&show_icons=true)
 

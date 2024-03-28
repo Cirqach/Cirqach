@@ -1,3 +1,4 @@
+<div align="center">
 <h4 align="center">HI :trollface:</h4>
 
 <img align="center"  src="https://badges.pufler.dev/repos/Cirqach"/>
@@ -12,3 +13,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cirqach&layout=compact)](https://github.com/Cirqach/github-readme-stats)
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cirqach)](https://github.com/Cirqach/github-readme-stats)
+</div>

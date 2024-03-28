@@ -1,4 +1,4 @@
-### HI :trollface:
+<h4 align="center">HI :trollface:</h4>
 
 <img src="https://badges.pufler.dev/repos/Cirqach"/>
  <img src="https://badges.pufler.dev/commits/monthly/Cirqach" />

@@ -4,10 +4,10 @@
 <img align="center"  src="https://badges.pufler.dev/repos/Cirqach"/>
  <img align="center" src="https://badges.pufler.dev/commits/monthly/Cirqach" />
 
-<h2>My BIO</h2>
+<h2>My BIO :neckbeard: </h2>
 
 <h2>
-My Github Stats
+My Github Stats  💩
 </h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cirqach&theme=catppuccin&show_icons=true)

@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="center">Wassup :trollface: </h2>
+<h2 align="center">WASSUP :trollface: </h2>
 
 <img align="center"  src="https://badges.pufler.dev/repos/Cirqach"/>
  <img align="center" src="https://badges.pufler.dev/commits/monthly/Cirqach" />

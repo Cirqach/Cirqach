@@ -3,9 +3,9 @@
 
 <img align="center"  src="https://badges.pufler.dev/repos/Cirqach"/>
  <img align="center" src="https://badges.pufler.dev/commits/monthly/Cirqach" />
-
+<h4>
 #### My Github Stats :trollface:
-
+</h4>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cirqach&theme=catppuccin&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cirqach&layout=compact)](https://github.com/Cirqach/github-readme-stats)

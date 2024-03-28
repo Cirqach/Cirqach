@@ -1,7 +1,7 @@
 <h4 align="center">HI :trollface:</h4>
 
-<img src="https://badges.pufler.dev/repos/Cirqach"/>
- <img src="https://badges.pufler.dev/commits/monthly/Cirqach" />
+<img align="center"  src="https://badges.pufler.dev/repos/Cirqach"/>
+ <img align="center" src="https://badges.pufler.dev/commits/monthly/Cirqach" />
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">

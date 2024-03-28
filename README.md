@@ -1,5 +1,8 @@
 ### HI :trollface:
 
+<img src="https://badges.pufler.dev/repos/Cirqach"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Cirqach" />
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cirqach&theme=catppuccin&show_icons=true)
 

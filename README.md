@@ -6,6 +6,7 @@
 
 <h2>My BIO :neckbeard: </h2>
 <p>
+I am 16 years old [Belarusian]() student. I studying in [GGAEK](), but it has nothing to do with what I do on github.
 </p>
 <h2>
 My Github Stats  :octocat:

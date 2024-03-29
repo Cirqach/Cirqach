@@ -14,7 +14,7 @@ My Github Stats  :octocat:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cirqach&theme=catppuccin&show_icons=true)
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cirqach&theme=dracula&exclude=
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cirqach&theme=dracula&exclude=)
 
 <h2 align="center">
   Wakatime stats :shit:

@@ -12,7 +12,6 @@ I am 16 years old <a href="https://en.m.wikipedia.org/wiki/Belarus"> Belarusian 
 My Github Stats  :octocat:
 </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cirqach&theme=dracula&show_icons=true)
 
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cirqach&theme=dracula)
 
